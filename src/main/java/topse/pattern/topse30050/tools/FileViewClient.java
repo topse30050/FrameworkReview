@@ -1,4 +1,6 @@
-package topse.pattern.topse30050;
+package topse.pattern.topse30050.tools;
+
+import topse.pattern.topse30050.framework.FileViewContext;
 
 public class FileViewClient {
     public static void main(String[] args) {

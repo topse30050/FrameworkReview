@@ -1,6 +1,7 @@
-package topse.pattern.topse30050;
+package topse.pattern.topse30050.tools;
 
 import org.apache.http.client.fluent.Request;
+import topse.pattern.topse30050.framework.FileGetStrategy;
 
 import java.io.IOException;
 import java.io.InputStream;

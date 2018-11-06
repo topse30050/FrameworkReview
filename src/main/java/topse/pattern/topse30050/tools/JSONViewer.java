@@ -1,9 +1,10 @@
-package topse.pattern.topse30050;
+package topse.pattern.topse30050.tools;
 
 import com.eclipsesource.json.Json;
 import com.eclipsesource.json.JsonObject;
 import com.eclipsesource.json.JsonValue;
 import org.apache.commons.io.IOUtils;
+import topse.pattern.topse30050.framework.FileViewStrategy;
 
 import java.io.IOException;
 import java.io.InputStream;

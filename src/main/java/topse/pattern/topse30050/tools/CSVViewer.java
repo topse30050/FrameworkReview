@@ -1,4 +1,6 @@
-package topse.pattern.topse30050;
+package topse.pattern.topse30050.tools;
+
+import topse.pattern.topse30050.framework.FileViewStrategy;
 
 import java.io.BufferedReader;
 import java.io.IOException;

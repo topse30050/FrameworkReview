@@ -1,4 +1,6 @@
-package topse.pattern.topse30050;
+package topse.pattern.topse30050.tools;
+
+import topse.pattern.topse30050.framework.FileGetStrategy;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
